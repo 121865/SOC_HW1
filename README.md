@@ -2,7 +2,7 @@
 實作影片:
 ## 功能介紹
 用SW0控制跑馬燈方向，SW1控制跑馬燈速度  
-SW0 OFF時LED由0~7依序亮起；SW0 ON時則相反 
+SW0 OFF時LED由0~7依序亮起；SW0 ON時則相反  
 SW1 ON時跑馬燈加速；SW1 OFF時跑馬燈速度恢復正常  
 ## Block design
 ![image](https://github.com/user-attachments/assets/135096f3-4e69-4c4b-a040-3f750d33f34e)
