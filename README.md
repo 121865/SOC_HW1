@@ -1,5 +1,5 @@
 # SOC_HW1
-實作影片:
+實作影片:https://youtube.com/shorts/4qFTQId88Fo?feature=share
 ## 功能介紹
 用SW0控制跑馬燈方向，SW1控制跑馬燈速度  
 SW0 OFF時LED由0~7依序亮起；SW0 ON時則相反  
