@@ -1,4 +1,3 @@
-```
 #include <stdio.h>
 #include "xparameters.h"
 #include "xgpio.h"
@@ -55,4 +54,3 @@ int main()
 
     return 0;
 }
-```
